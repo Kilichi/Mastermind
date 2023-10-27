@@ -1,0 +1,4 @@
+/home/CMEDIO/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/CMEDIO/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/CMEDIO/Escritorio/Mastermind -B /home/CMEDIO/Escritorio/Mastermind/cmake-build-debug
+-- Configuring done (0.3s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/CMEDIO/Escritorio/Mastermind/cmake-build-debug

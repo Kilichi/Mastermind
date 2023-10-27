@@ -1,0 +1,3 @@
+/home/CMEDIO/Escritorio/Mastermind/cmake-build-debug/CMakeFiles/Mastermind.dir
+/home/CMEDIO/Escritorio/Mastermind/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/CMEDIO/Escritorio/Mastermind/cmake-build-debug/CMakeFiles/rebuild_cache.dir
